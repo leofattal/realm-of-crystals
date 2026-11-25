@@ -9,11 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@displayxr/inline3d": "1.56.0",
+    "@displayxr/inline3d": "1.60.0",
     "three": "0.170.0"
   },
   "devDependencies": {
-    "vite": "6.0.7",
-    "playwright": "1.49.1"
+    "playwright": "1.49.1",
+    "vite": "6.0.7"
   }
 }
